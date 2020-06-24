@@ -1,5 +1,5 @@
 baseURL = ""
-languageCode = "en"
+languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Yet another coredump"
 preserveTaxonomyNames = true
