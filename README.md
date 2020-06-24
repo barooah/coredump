@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/barooah/coredump.svg)](https://travis-ci.com/barooah/coredump)
+[![Build Status](https://travis-ci.org/barooah/coredump.svg)](https://travis-ci.org/barooah/coredump)
 
 # coredump
 
