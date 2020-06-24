@@ -9,7 +9,8 @@ weight: 50
 ## About me
 
 Hi, I am a programmer mostly focused on distributed storage systems.
-I tend to dabble in a lot of things but kept losing my notes. Hopefully, this is a place
-where I can finally persist my assortment of facts, thougths & very opiniated opinions.
+
+No plan here, just a collection of my thoughts sprinkled with my very opinionated views and of course
+some assortment of interesting stuff.
 
 * [GitHub](https://github.com/barooah)
