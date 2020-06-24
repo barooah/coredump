@@ -1,9 +1,29 @@
 ---
 title: "Alpha"
-date: 2020-06-24T11:59:41+05:30
+date: 2020-06-24
+
+draft: false
+tags: ["preview", "test"]
+categories: ["Test category"]
+
+autoCollapseToc: true
+
 ---
 
-# Header
+## Header `[](){};`
 
-This is a test.
+# Markdown
+
+```
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+### Duplicate Header
+### Duplicate Header
+```
+
+---
 
