@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/barooah/barooah.github.io
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even

@@ -1,4 +1,4 @@
 baseURL = "https://barooah.github.io/"
 languageCode = "en-us"
-title = "Yet another coredumpe"
-theme = "ananke"
+title = "Yet another coredump"
+theme = "even"
